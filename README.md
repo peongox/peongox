@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Hello there👋!<br>My name is Bao Ngoc, I'm a junior at the University of Foreign Languages and Technology in Ho Chi Minh City. I come from Viet Nam and currently live in Sai Gon. In my spare time, I love playing with my cat or playing some sports with my friend in the park. But sometimes, I just watch some videos on YouTube instead. For my future plans, my goal is to learn a new programming language on my own and improve my crochet skills.</p>
+<h4 align="left"> Hello there 👋!
+  <br>My name is Bao Ngoc, I'm a junior at the University of Foreign Languages and Technology in Ho Chi Minh City. I come from Viet Nam and currently live in Sai Gon. In my spare time, I love playing with my cat or playing some sports with my friend in the park. But sometimes, I just watch some videos on YouTube instead. For my future plans, my goal is to learn a new programming language on my own and improve my crochet skills.</h4>
 
 ###
 
