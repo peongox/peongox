@@ -6,6 +6,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="150" src="https://media1.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp?cid=ecf05e47q1sonowfhbapt258lex7dn95s7whg9pdgeej3030&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
 
 ###
@@ -17,7 +19,9 @@
 
 ###
 
-<h3 align="left">Languages:</h3>
+<br clear="both">
+
+<h3 align="left"> :notebook_with_decorative_cover: Languages:</h3>
 
 ###
 
@@ -37,7 +41,7 @@
 
 ###
 
-<h3 align="left">Tools:</h3>
+<h3 align="left"> :paintbrush: Tools:</h3>
 
 ###
 
@@ -57,14 +61,10 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/2f/cd/55/2fcd557a4f899e710841f3359a2e4a1e.gif"  />
-</div>
-
-###
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/peongox/peongox/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img width="1000" height="auto" src="https://i.pinimg.com/originals/d1/1e/e1/d11ee149666651a885b0d3c21f8bfcfa.gif"  />
+</div>
 
 ###
